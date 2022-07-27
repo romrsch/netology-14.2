@@ -58,7 +58,8 @@ client.secrets.kv.v2.read_secret_version(
 )
 ```
 ***Ответ:***
-![Alt text](https://i.ibb.co/dk1RxJt/Screenshot-11.jpg)
+
+![Alt text](https://i.ibb.co/0MXZWK8/Screenshot-13.jpg)
 
 
 ---
